@@ -59,14 +59,15 @@ GROQ_API_KEY=your_groq_api_key
 API_TOKEN=your_secure_token
 ▶️ Run the Application
 uvicorn main:app --reload
+```
 
 App will be available at:
-👉 http://127.0.0.1:8000/
+👉 https://huggingface.co/spaces/prasad799596/Trade_ai
 
 🌐 Usage
 🔹 Web UI
 
-Open browser → http://127.0.0.1:8000/
+Open browser → https://huggingface.co/spaces/prasad799596/Trade_ai
 
 Enter a sector (e.g., technology)
 
